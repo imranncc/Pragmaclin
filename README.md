@@ -1,6 +1,6 @@
 # Pragmaclin
 
-This repository contains a Python script for predicting the severity of maintenance issues based on provided data. The script utilizes machine learning models trained on features extracted from sensor data.
+A Python script for predicting the severity of maintenance issues based on provided data. The script utilizes machine learning models trained on features extracted from sensor data.
 
 ## Requirements
 - Python 3.x
